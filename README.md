@@ -14,11 +14,11 @@
 
 Render URL:
 
-(Add after deployment)
+https://heartdiseasedeployment-bqlu.onrender.com
 
 ## GitHub Repository
 
-(Add your GitHub repository link)
+https://github.com/dvshriram-dvs/HeartDiseaseDeployment.git
 
 ## Project Description
 
