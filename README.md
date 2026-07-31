@@ -10,13 +10,11 @@
 
 **Email ID:** shriram.23mim10044@vitbhopal.ac.in
 
-## Render Deployment
-
-Render URL:
+## Render Deployment-
 
 https://heartdiseasedeployment-bqlu.onrender.com
 
-## GitHub Repository
+## GitHub Repository-
 
 https://github.com/dvshriram-dvs/HeartDiseaseDeployment.git
 
