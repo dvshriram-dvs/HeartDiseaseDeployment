@@ -76,6 +76,8 @@ python app.py
 ```
 http://127.0.0.1:5000/
 ```
+
 ## Conclusion
 
-The Random Forest model achieved good accuracy for predicting heart disease. The Flask API successfully accepts patient information and returns predictions in JSON format. The project demonstrates the complete machine learning deployment process using GitHub and Render, highlighting the importance of MLOps for version control, deployment, and serving machine learning models.
+This project successfully developed and deployed a machine learning model for heart disease prediction using the Random Forest algorithm. The model achieved good accuracy in predicting whether a patient is at risk of heart disease based on clinical parameters. A Flask REST API was created to serve predictions, and the application was successfully deployed on Render with the source code managed through GitHub. During deployment, challenges such as dependency management and Python version compatibility were encountered and resolved by configuring the required packages correctly. This project demonstrates the importance of MLOps practices, including version control, model serialization, API development, and cloud deployment. Overall, it provides practical experience in building and deploying an end-to-end machine learning application that can be accessed as a live web service.
+
